@@ -1,7 +1,7 @@
 # Brotherhood Clothing Website – Changelog
 
 ## Student Information
-Name: Amarachi Dira  
+Name: Amarachi Dura  
 Student Number: st10537682  
 Subject: WEDE5020  
 Group: 4  
