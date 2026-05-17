@@ -2,7 +2,7 @@
 
 ## Student Information
 Name: Amarachi Dira  
-Student Number: 10537682  
+Student Number: st10537682  
 Subject: WEDE5020  
 Group: 4  
 
